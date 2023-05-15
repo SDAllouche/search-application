@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:dbp="http://dbpedia.org/property/"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dbr="http://dbpedia.org/resource/">
+    
+    <rdf:Description rdf:about="http://dbpedia.org/resource/Casablanca">
+        <dbp:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3547000</dbp:populationTotal>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.53333</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-7.58333</geo:long>
+    </rdf:Description>
+    
+</rdf:RDF>
