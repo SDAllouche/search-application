@@ -1,1 +1,4 @@
-"# search-application" 
+# Search Application
+
+## License
+[MIT LICENSE](LICENSE)
